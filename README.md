@@ -1,6 +1,6 @@
 # AsusNumpadKiller
 
-Got shiny new Asus Gaming RTX 30 gaming laptop. But it has one annoying feature; NumPad which is integrated
+Got shiny new Asus RTX 30 gaming laptop. But it has one annoying feature; NumPad which is integrated
 into touchpad. https://www.asus.com/support/FAQ/1038283/
 
 That's right, clicking on top-right corner of touchpad turns touchpad into numeric keyboard and stops controlling the pointer. 
