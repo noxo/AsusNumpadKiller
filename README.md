@@ -19,7 +19,7 @@ Included is also subproject which builds .MSI installer that will:
 
 ## Building instructions
 - Open project in Visual Studio
-- Right-click install project -> Install
+- Right-click "Installer" project -> Install
 - Alternatively you can just build AsusNumpadKiller project and run the executable from Debug/Release folder
 
 ## Alternatives
